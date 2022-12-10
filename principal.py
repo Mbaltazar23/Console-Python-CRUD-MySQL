@@ -1,5 +1,5 @@
 from BD.conexion import DAO
-import funciones
+import functions.funciones as funciones
 
 
 def menuPrincipal():
